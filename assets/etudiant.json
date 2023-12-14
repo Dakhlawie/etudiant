@@ -1,0 +1,89 @@
+{
+    "etudiant": [
+      {
+        "id": 1,
+        "nom": "Dakhlawie",
+        "prenom": "meryem",
+        "date_naissance": "2002-11-02",
+        "urlAvatar":"https://www.pixelstalk.net/wp-content/uploads/2016/09/Best-Beautiful-Images-For-Desktop-Nature.png",
+        "notes": [
+          {
+            "matiere": "Mathématiques",
+            "note": 18
+          },
+          {
+            "matiere": "Français",
+            "note": 15
+          },
+          {
+            "matiere": "Histoire",
+            "note": 14
+          }
+        ]
+      },
+      {
+        "id": 2,
+        "nom": "guirati",
+        "prenom": "nour",
+        "date_naissance": "2002-04-29",
+        "urlAvatar":"https://www.pixelstalk.net/wp-content/uploads/2016/09/Best-Beautiful-Images-For-Desktop-Nature.png",
+        "notes": [
+          {
+            "matiere": "Mathématiques",
+            "note": 17
+          },
+          {
+            "matiere": "Français",
+            "note": 16
+          },
+          {
+            "matiere": "Histoire",
+            "note": 12
+          }
+        ]
+      },
+      {
+        "id": 3,
+        "nom": "hbacha",
+        "prenom": "dorra",
+        "date_naissance": "2002-11-06",
+        "urlAvatar":"https://www.pixelstalk.net/wp-content/uploads/2016/09/Best-Beautiful-Images-For-Desktop-Nature.png",
+        "notes": [
+          {
+            "matiere": "Mathématiques",
+            "note": 19
+          },
+          {
+            "matiere": "Français",
+            "note": 18
+          },
+          {
+            "matiere": "Histoire",
+            "note": 15
+          }
+        ]
+      },
+      {
+        "id": 4,
+        "nom": "ouerfelli",
+        "prenom": "mayssa",
+        "date_naissance": "2002-09-04",
+        "urlAvatar":"https://www.pixelstalk.net/wp-content/uploads/2016/09/Best-Beautiful-Images-For-Desktop-Nature.png",
+        "notes": [
+          {
+            "matiere": "Mathématiques",
+            "note": 20
+          },
+          {
+            "matiere": "Français",
+            "note": 19
+          },
+          {
+            "matiere": "Histoire",
+            "note": 15
+          }
+        ]
+      }
+    ]
+  }
+  
